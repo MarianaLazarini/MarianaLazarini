@@ -6,8 +6,17 @@
 
 <div>
   <a href="https://MarianaLazarini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaLazarini&layout=compact&langs_count=8&theme=dracula"/>
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
 
   <div style="display: inline_block"><br>
@@ -18,7 +27,6 @@
   <img align="center" alt="Canva Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
   
-  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/mariana-lazarini-01347222a/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
