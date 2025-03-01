@@ -24,6 +24,10 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg'>
+  <img align="center" alt="MySQL" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img align="center" alt="Linux" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+    
   <img align="center" alt="Canva Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
   
