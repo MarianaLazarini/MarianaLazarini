@@ -1,6 +1,6 @@
 ✨ Hi there, I'm Mariana Lazarini!
 
-🇧🇷 Estudante de Engenharia da Computação - IFSP
+🇧🇷 Estudante de Engenharia de Computação - IFSP
 
 🇺🇸 Studying Computer Engineer - IFSP
 
