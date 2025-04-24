@@ -24,9 +24,15 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="PHP" height="30" width="40" src='https://camo.githubusercontent.com/92a977256f3f2b4ef99e6684c1d88f1ac0394ed909893e5e56cb3539a31f2590/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667'>
   <img align="center" alt="Arduino" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg'>
   <img align="center" alt="MySQL" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
   <img align="center" alt="Linux" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+  <img align="center" alt="HTML" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
+  <img align="center" alt="React" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+  <img align="center" alt="NextJS" height="30" width="40" src="https://camo.githubusercontent.com/b591d4dd350465477ff93b188151b1f657de57814c5ae7de8be176516b0616a2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2d776f72646d61726b2e737667">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://camo.githubusercontent.com/d21012299f2ccd4a7d73b13f896b0be91c9e71bb7f0b51f1cbfb783ed6b9f9b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"
     
   <img align="center" alt="Canva Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
