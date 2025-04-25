@@ -4,20 +4,13 @@
 
 🇺🇸 Studying Computer Engineer - IFSP
 
-<div>
+
+<div align="left">
   <a href="https://MarianaLazarini">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaLazarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaLazarini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -32,7 +25,6 @@
   <img align="center" alt="HTML" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img align="center" alt="React" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://camo.githubusercontent.com/d21012299f2ccd4a7d73b13f896b0be91c9e71bb7f0b51f1cbfb783ed6b9f9b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"
-    
   <img align="center" alt="Canva Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
   
