@@ -1,8 +1,10 @@
 ✨ Hi there, I'm Mariana Lazarini!
 
-🇧🇷 Estudante de Engenharia de Computação - IFSP
+🇧🇷 Estudante de Engenharia de Computação - IFSP <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/01dd2cf8-b423-4e49-8e61-fe9a00a6b2ab" />
 
-🇺🇸 Studying Computer Engineer - IFSP
+
+🇺🇸 Studying Computer Engineer - IFSP <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/0b2af341-219d-4321-80d9-8a46bd56dcdf" />
+
 
 
 <div align="left">
